@@ -1,0 +1,68 @@
+body{
+    color: rgb(143, 0, 43);
+    background-color: rgb(255, 216, 216);
+}
+h1{
+    color: rgb(143, 0, 43);
+    text-align: center;
+    font-size: 4rem;
+}
+
+h2{
+    color: rgb(143, 0, 43);
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3{
+    color: rgb(143, 0, 43);
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+
+p{
+    color: rgb(143, 0, 43);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+ol{
+    color: rgb(143, 0, 43);
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+a{
+    color: rgb(143, 0, 43);
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: rgb(20, 59, 46);
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    transition: all 0.5s ease;
+}
+
+.cat-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-content: center;
+    position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 300px;  
+  height: auto;
+}
+
+.cat-pic:hover{
+    width: 30%;
+    transition: all 0.5s ease;
+}
+
